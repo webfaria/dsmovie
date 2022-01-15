@@ -3,7 +3,7 @@ import Listing from 'pages/Listing';
 import Form from 'pages/Form';
 import Navbar from 'components/Navbar';
 
-//Navbar
+//Routes
 
 function App() {
   return (
